@@ -32,6 +32,7 @@
 - QE/CI of RX 480 4GB GDDR5
 - Restart and Shutdown
 - CPU Power Management
+- AMD Power Gadget [Download Here](https://github.com/trulyspinach/SMCAMDProcessor/releases/download/0.7.1/AMD.Power.Gadget.app.zip)
 - Ethernet
 - Audio Jack and Internal Mic (Front & Rear)
 - Display Output : HDMI / DVI
