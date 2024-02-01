@@ -24,7 +24,9 @@
 - OS Monterey 12.7.2 (21G1974)
 - [Installer Olarila](https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
 
-[![I](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Screen%20Shot%202024-01-29%20at%2020.50.42.png?raw=true "I")](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Screen%20Shot%202024-01-29%20at%2020.50.42.png?raw=true "I")
+![I](https://github.com/anggamdev/Ryzen-3-1200-Hackintosh-with-RX-480/blob/main/Screenshot/Screen%20Shot%202024-02-01%20at%2010.14.50.png?raw=true
+  "I")
+
 
 ### Work :
 - QE/CI of RX 480 4GB GDDR5
@@ -40,7 +42,7 @@
 ### Not Work :-(
 - Etc
 
-### [Download EFI](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/releases/tag/OC.0.9.7 " Download EFI")
+### [Download EFI](https://github.com/anggamdev/Ryzen-3-1200-Hackintosh-with-RX-480/releases/tag/OC.0.9.7 " Download EFI")
 
 ### Bios Setting :
 
