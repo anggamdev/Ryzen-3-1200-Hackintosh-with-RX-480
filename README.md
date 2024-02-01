@@ -1,7 +1,10 @@
 # Ryzen 31200 Hackintosh with RX-480 | Hackintosh OpenCore
 
-[![H](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Lenovo%20ThinkCentre%20M910s.png?raw=true "H")](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Lenovo%20ThinkCentre%20M910s.png?raw=true "H")
 
+
+[![I]( https://github.com/anggamdev/Ryzen-3-1200-Hackintosh-with-RX-480/blob/main/ryzen%203%201200%20hackintosh.png?raw=true "I")]( https://github.com/anggamdev/Ryzen-3-1200-Hackintosh-with-RX-480/blob/main/ryzen%203%201200%20hackintosh.png?raw=true?raw=true "I")
+
+ 
 ### Boot :
 
 - OpenCore: 0.9.7 
