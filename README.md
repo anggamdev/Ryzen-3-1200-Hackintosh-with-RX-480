@@ -46,6 +46,6 @@
 
 ### Bios Setting :
 
-- Please see [Bios Setting Lenovo M910s](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/commit/c6162791a509a7d4de7c602fda5e07d27f821516 "Bios Setting Lenovo M910s") folder
+- Please see [Bios Setting ](https://github.com/anggamdev/Ryzen-3-1200-Hackintosh-with-RX-480/commit/7a87d222c8f4627060c4315fdb0fb3660d0103c0 "Bios Setting") folder
 
 Thanks to 🇮🇩 h4ςκ1η†05h ﾚ0∀εr 🇮🇩 GRUP for Guide to create this EFI
