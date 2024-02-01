@@ -1,4 +1,4 @@
-# Ryzen 31200 Hackintosh with RX-480 | Hackintosh OpenCore
+# Ryzen 3 1200 Hackintosh with RX-480 | Hackintosh OpenCore
 
 
 
