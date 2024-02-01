@@ -2,7 +2,7 @@
 
 
 
-[![I]( https://github.com/anggamdev/Ryzen-3-1200-Hackintosh-with-RX-480/blob/main/ryzen%203%201200%20hackintosh.png?raw=true "I")]( https://github.com/anggamdev/Ryzen-3-1200-Hackintosh-with-RX-480/blob/main/ryzen%203%201200%20hackintosh.png?raw=true?raw=true "I")
+[![I]( https://github.com/anggamdev/Ryzen-3-1200-Hackintosh-with-RX-480/blob/main/ryzen%203%201200%20hackintosh.png "I")]( https://github.com/anggamdev/Ryzen-3-1200-Hackintosh-with-RX-480/blob/main/ryzen%203%201200%20hackintosh.png "I")
 
  
 ### Boot :
